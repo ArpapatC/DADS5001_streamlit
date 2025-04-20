@@ -15,7 +15,7 @@ jinja2
 jsonschema
 jsonschema-specifications
 MarkupSafe
-mkl-service==2.4.0
+mkl-service
 mkl_fft
 mkl_random
 narwhals
